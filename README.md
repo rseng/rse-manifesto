@@ -1,4 +1,4 @@
-# Research Software Engineer Manifesto?
+# Research Software Engineer Manifesto
 
 [![GitHub actions status](https://github.com/usrse/rse-manifesto/workflows/CI/badge.svg?branch=master)](https://github.com/usrse/rse-manifesto/actions?query=branch%3Amaster+workflow%3ACI)
 

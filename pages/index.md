@@ -3,8 +3,8 @@ layout: default
 permalink: /
 ---
 
-<div class="larg">{% assign terms = site.data.terms | sort: 'name' %}
-  <dl>{% for term in terms %}<dt data-url="{{ term.url }}" data-dfn="{{ term.definition }}">{{ term.name }}</dt>{% endfor %}
+<div class="larg">{% assign vows = site.data.manifesto | sort: 'name' %}
+  <dl>{% for vow in vows %}<dt data-dfn="{{ vow.vow }}">{{ vow.name }}</dt>{% endfor %}
   </dl>
 </div>
 <div class="flap">

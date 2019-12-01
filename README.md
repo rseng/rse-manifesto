@@ -1,19 +1,19 @@
-# Research Software Engineer Glossary
+# Research Software Engineer Manifesto?
 
-[![GitHub actions status](https://github.com/usrse/rse-glossary/workflows/CI/badge.svg?branch=master)](https://github.com/usrse/rse-glossary/actions?query=branch%3Amaster+workflow%3ACI)
+[![GitHub actions status](https://github.com/usrse/rse-manifesto/workflows/CI/badge.svg?branch=master)](https://github.com/usrse/rse-manifesto/actions?query=branch%3Amaster+workflow%3ACI)
 
-## What is the RSE Glossary?
+## What is the RSE Manifesto?
 
-This is a small, fun project to attempt to distinguish a namespace of common
-terms relevant to research software engineering from traditional software engineering.
-If you see a lot of overlap between those two, you are correct! Many practices 
-from traditional software engineering fall nicely within research software
-engineering, however the overlap isn't perfect, and further, the context 
-may be different. There are also likely expressions, conferences, or other
-terminology that are distinct to this space. For this reason, we've 
-established this site of terms to assert these differences.
+If you're an RSE, what general standards do you (consciously or unconsciously) use
+to guide your daily interactions and life? These are the points, some serious, 
+and some funny, that research software engineers live by. You may not agree
+with all of them, but likely you can relate to some degree, or understand where
+your fellow RSE is coming from. Being a research
+software engineer can be hard, and we should share the rules that we use to govern
+our daily roles, and strive to not take ourselves too seriously!
 
 ## How do I contribute?
 
-You can edit or add a new term by editing the [_data/terms.yml](_data/terms.yml)
-file. If you have any questions, please don't hesitate to [open an issue](https://www.github.com/usrse/rse-glossary/issues).
+You can contribute a bit of wisdom by editing the [_data/manifesto.yml](_data/manifesto.yml)
+file. If you have any questions, please don't hesitate to [open an issue](https://www.github.com/usrse/rse-manifesto/issues).
+Let's have fun, share wisdom, and spread the word of research software engineering!h

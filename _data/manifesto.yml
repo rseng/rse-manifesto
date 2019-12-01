@@ -1,0 +1,14 @@
+- name: empathy
+  vow: I vow to never respond with 'But it works on my computer.'
+- name: humility
+  vow: I vow to not take myself too seriously.
+- name: generosity
+  vow: I vow to, if I am to give a talk or presentation, to make it fun and bring snacks.
+- name: proactivity 
+  vow: I vow to, upon finding an issue in a codebase, report or proactively work to fix it depending on the degree to which I am able to contribute. For open source software, I will open an issue if necessary to discuss the fix, and open a pull request to fix it.
+- name: self-compassion
+  vow: I vow to, for the health of my brain and body, aspire for at least 8 hours of sleep a night, exercise rigorously a few days a week, and eat healthy.
+- name: clarity
+  vow: I vow to aspire for open, direct, and clear communication in my issues, reviews, and daily conversation.
+- name: urgency
+  vow: I vow to, upon receiving feedback about a contribution or codebase, respond as quickly as I am able, ideally in the first 24 hours to be maximally responsive as a maintainer.

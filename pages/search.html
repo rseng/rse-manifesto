@@ -7,7 +7,7 @@ excluded_in_search: true
 ---
 
 <form action="{{ site.baseurl }}/search" method="get">
-	<input type="search" name="q" id="search-input" placeholder="Search terms?" style="margin-top:5px" autofocus>
+	<input type="search" name="q" id="search-input" placeholder="Search vows?" style="margin-top:5px" autofocus>
 	<i style="color:white; margin-right:8px; margin-left:5px" class="fa fa-search"></i>
 	<input type="submit" value="Search" style="display: none;">
 </form>
@@ -31,16 +31,16 @@ excluded_in_search: true
 					}
 					{% assign added = true %}
 				{% endunless %}
-		{% endfor %}{% for post in site.data.terms %}
+		{% endfor %}{% for post in site.data.manifesto %}
 				{% unless post.excluded_in_search %}
 					{% if added %},{% endif %}
 					{% assign added = false %}
 					"{{ post.name }}": {
 						"id": "{{ post.name }}",
 						"title": "{{ post.name }}",
-						"categories": "term,definition",
-						"url": "/term/?q={{ post.name }}",
-						"content": "{{ post.name }} {{ post.definition }}"
+						"categories": "vow,definition",
+						"url": "/vow/?q={{ post.name }}",
+						"content": "{{ post.name }} {{ post.vow }}"
 					}
 					{% assign added = true %}
 				{% endunless %}

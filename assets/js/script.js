@@ -35,7 +35,7 @@ $(document).ready( function() {
     html += "<h3>"+word+"</h3>";
     html += '<p>'+dfn+'</p>';
     if (wordurl != "") {
-        html += '<a href="{{ site.url }}{{ site.baseurl }}/term/?q='+word+'">link</a>';
+        html += '<a href="{{ site.url }}{{ site.baseurl }}/vow/?q='+word+'">link</a>';
     }
    
     if (i != 1){

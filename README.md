@@ -2,6 +2,8 @@
 
 [![GitHub actions status](https://github.com/usrse/rse-manifesto/workflows/CI/badge.svg?branch=master)](https://github.com/usrse/rse-manifesto/actions?query=branch%3Amaster+workflow%3ACI)
 
+![assets/img/manifesto.png](assets/img/manifesto.png)
+
 ## What is the RSE Manifesto?
 
 If you're an RSE, what general standards do you (consciously or unconsciously) use

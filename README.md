@@ -1,6 +1,6 @@
 # Research Software Engineer Manifesto
 
-[![GitHub actions status](https://github.com/usrse/rse-manifesto/workflows/CI/badge.svg?branch=master)](https://github.com/usrse/rse-manifesto/actions?query=branch%3Amaster+workflow%3ACI)
+[![GitHub actions status](https://github.com/rseng/rse-manifesto/workflows/CI/badge.svg?branch=master)](https://github.com/rseng/rse-manifesto/actions?query=branch%3Amaster+workflow%3ACI)
 
 ![assets/img/manifesto.png](assets/img/manifesto.png)
 
@@ -17,5 +17,5 @@ our daily roles, and strive to not take ourselves too seriously!
 ## How do I contribute?
 
 You can contribute a bit of wisdom by editing the [_data/manifesto.yml](_data/manifesto.yml)
-file. If you have any questions, please don't hesitate to [open an issue](https://www.github.com/usrse/rse-manifesto/issues).
+file. If you have any questions, please don't hesitate to [open an issue](https://www.github.com/rseng/rse-manifesto/issues).
 Let's have fun, share wisdom, and spread the word of research software engineering!h

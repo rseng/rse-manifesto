@@ -1,6 +1,7 @@
 # Research Software Engineer Manifesto
 
 [![GitHub actions status](https://github.com/rseng/rse-manifesto/workflows/CI/badge.svg?branch=master)](https://github.com/rseng/rse-manifesto/actions?query=branch%3Amaster+workflow%3ACI)
+[![https://img.shields.io/badge/rseng-project-purple](https://img.shields.io/badge/rseng-project-purple)](https://rseng.github.io/)
 
 ![assets/img/manifesto.png](assets/img/manifesto.png)
 

@@ -9,14 +9,14 @@ title: The Research Software Engineer Manifesto
 
 # Description: Short description of your site
 description: The Standards that we sometimes live by
-author: USRSE
-repo: https://www.github.com/usrse/rse-manifesto
+author: rseng
+repo: https://www.github.com/rseng/rse-manifesto
 
 # Social Profiles
 
 # Uncomment twitter to have a feed in the right sidebar of latest tweets
 twitter:  us_rse
-github_username:  usrse
+github_username:  rseng
 
 # Navigation
 navbar-links:
